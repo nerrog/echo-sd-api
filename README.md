@@ -4,7 +4,7 @@
 
 # API
 
-echo-sd.nerrog.net/?argv=test
+https://echo-sd.nerrog.net/?argv=test
 
 引数であるargvの値を変えることで文字列を変更できます
 
